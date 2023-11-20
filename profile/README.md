@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Welcome to Drop All Databases</h1>
 </div>
-We're building enterprise-grader toolkits and services to empower security researchers and professionals.
+We're building enterprise-grade toolkits and services to empower security researchers and professionals.
 
 ## About 👋
 This organization hosts all public FOSS repositories concerning our toolkits, the sif software itself, along with our roadmap and community activities.
