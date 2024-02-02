@@ -9,4 +9,4 @@ We're building enterprise-grade toolkits and services to empower security resear
 This organization hosts all public FOSS repositories concerning our toolkits, the sif software itself, along with our roadmap and community activities.
 
 ## Get on board 🚀
-Feel free to contribute and push sif to release! Please take a look at our [Roadmap](https://github.com/orgs/dropalldatabases/projects/1/views/1), and feel free to join our [Discord Server](https://discord.gg/dropalldatabases) for further assistance, support, and to join in with the community.
+Feel free to contribute and push sif to release! Please take a look at our [Roadmap](https://github.com/orgs/dropalldatabases/projects/1/views/1), and feel free to join our [Discord Server](https://discord.gg/S2MQG68m8e) for further assistance, support, and to join in with the community.
