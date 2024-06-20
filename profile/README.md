@@ -1,12 +1,12 @@
-![https://github.com/dropalldatabases/.github/blob/main/banner.jpg?raw=true](https://github.com/dropalldatabases/.github/blob/main/banner.jpg?raw=true)
+![https://pbs.twimg.com/profile_banners/1720443335247101952/1713456509/1500x500](https://pbs.twimg.com/profile_banners/1720443335247101952/1713456509/1500x500)
 
 <div align="center">
 <h1>Welcome to lunchcat's open-source repositories!</h1>
 </div>
-We're building enterprise-grade toolkits and services to empower security researchers and professionals.
+We're building enterprise-grade toolkits and services.
 
 ## About 👋
 This organization hosts all public FOSS repositories concerning our toolkits, the sif software itself, along with our roadmap and community activities.
 
 ## Get on board 🚀
-Feel free to contribute and push sif to release! Feel free to join our [Discord Server](https://discord.gg/S2MQG68m8e) for further assistance, support, and to join in with the community.
+Feel free to contribute and push sif to release! Feel free to join our [Discord Server](https://discord.gg/4jeEwKkevc) for further assistance, support, and to join in with the community.
