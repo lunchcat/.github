@@ -1,12 +1,19 @@
-![https://pbs.twimg.com/profile_banners/1720443335247101952/1713456509/1500x500](https://pbs.twimg.com/profile_banners/1720443335247101952/1713456509/1500x500)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lunchcat/assets/main/logo.png" width="120" height="120" alt="LUNCHCAT™" style="filter: brightness(97%);" />
+</div>
+
+<h1 align="center" style="color: #333333; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">where math meets instinct.</h1>
+
+<div align="center" style="color: #444444; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+  <a href="https://lunchcat.dev" style="color: #666666; text-decoration: none;">HOME</a> &nbsp;·&nbsp; 
+  <a href="https://github.com/lunchcat/sif" style="color: #666666; text-decoration: none;">SIF</a> &nbsp;·&nbsp; 
+  <a href="https://twitter.com/joinlunchcat" style="color: #666666; text-decoration: none;">TWITTER</a>
+</div>
+
+<br>
+
+<hr style="border: none; height: 1px; background-color: #DDDDDD;">
 
 <div align="center">
-<h1>Welcome to lunchcat's open-source repositories!</h1>
+  <sub style="color: #888888; letter-spacing: 0.1em;">MADE IN CALIFORNIA</sub>
 </div>
-We're building enterprise-grade toolkits and services.
-
-## About 👋
-This organization hosts all public FOSS repositories concerning our toolkits, the sif software itself, along with our roadmap and community activities.
-
-## Get on board 🚀
-Feel free to contribute and push sif to release! Feel free to join our [Discord Server](https://discord.gg/4jeEwKkevc) for further assistance, support, and to join in with the community.
