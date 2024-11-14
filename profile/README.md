@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/lunchcat/.github/blob/main/1500x500.png?raw=true" width="120" height="120" alt="LUNCHCAT™" style="filter: brightness(97%);" />
+  <img src="https://github.com/lunchcat/.github/blob/main/1500x500.jpg?raw=true" alt="LUNCHCAT™" style="filter: brightness(97%);" />
 </div>
 
 <h1 align="center" style="color: #333333; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">where math meets instinct.</h1>
